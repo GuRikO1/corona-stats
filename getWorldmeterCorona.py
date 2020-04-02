@@ -1,12 +1,17 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
+import datetime 
 
 pd.set_option('display.max_rows', 500)
 
 url = "https://www.worldometers.info/coronavirus/"
 soup = BeautifulSoup(requests.get(url).content,'html.parser')
-print(soup)
+
+d_today = datetime.date.today()
+with open('worldmeterCoronaHtml{}.txt'.format(d_today), 'w') as f:
+    print(soup, file=f)
+
 tag_tr = soup.find_all('tr')
 head = [h.text for h in tag_tr[0].find_all('th')]
 
@@ -28,4 +33,4 @@ for h in head[1:10]:
     df[h] = pd.to_numeric(df[h], errors='coerce')
 
 df_s = df.sort_values('TotalCases', ascending=False)
-#print(df_s)
+print(df_s)

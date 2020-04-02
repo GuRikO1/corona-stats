@@ -10,7 +10,7 @@
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>Coronavirus Update (Live): 940,622 Cases and 47,516 Deaths from COVID-19 Virus Outbreak - Worldometer</title>
+<title>Coronavirus Update (Live): 946,873 Cases and 48,135 Deaths from COVID-19 Virus Outbreak - Worldometer</title>
 <meta content="Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, and death toll by country due to the COVID 19 coronavirus from Wuhan, China. Coronavirus counter with new cases, historical data, and info. Daily charts, graphs, news and updates" name="description"/>
 <link href="/favicon/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
 <link href="/favicon/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
@@ -230,25 +230,25 @@ window.cookieconsent.initialise({
     -->
 </style>
 <div class="label-counter" id="page-top">COVID-19 Coronavirus Pandemic</div>
-<div style="font-size:13px; color:#999; text-align:center">Last updated: April 02, 2020, 09:16 GMT</div>
+<div style="font-size:13px; color:#999; text-align:center">Last updated: April 02, 2020, 09:48 GMT</div>
 <div style="margin-top:20px; text-align:center; font-size:14px"><a href="/coronavirus/coronavirus-cases/"> Case Graphs</a> - <a href="/coronavirus/coronavirus-death-toll/">Death Graphs</a> - <a href="#countries">Countries</a> - <a href="/coronavirus/coronavirus-death-rate/">Death Rate</a> - <a href="/coronavirus/coronavirus-incubation-period/">Incubation</a> - <a href="/coronavirus/coronavirus-age-sex-demographics/">Age</a> - <a href="/coronavirus/coronavirus-symptoms/">Symptoms</a> - <a href="#news">News</a></div>
 <div id="maincounter-wrap" style="margin-top:15px">
 <h1>Coronavirus Cases:</h1>
 <div class="maincounter-number">
-<span style="color:#aaa">940,622 </span>
+<span style="color:#aaa">946,873 </span>
 </div>
 </div>
 <div style="text-align:center "><a href="#countries">view by country</a></div>
 <div id="maincounter-wrap" style="margin-top:15px">
 <h1>Deaths:</h1>
 <div class="maincounter-number">
-<span>47,516</span>
+<span>48,135</span>
 </div>
 </div>
 <div id="maincounter-wrap" style="margin-top:15px;">
 <h1>Recovered:</h1>
 <div class="maincounter-number" style="color:#8ACA2B ">
-<span>196,214</span>
+<span>200,317</span>
 </div>
 </div>
 <div style="margin-top:50px;"></div>
@@ -334,14 +334,14 @@ Active Cases
 <div class="panel-body" style="text-align:center; height:200px;">
 <div class="panel_flip">
 <div class="panel_front" style="width:100%;height:100%;">
-<div class="number-table-main">696,892</div>
+<div class="number-table-main">698,421</div>
 <div style="font-size:13.5px">Currently Infected Patients</div>
 <div style="padding-top:20px;position:relative;text-align:center; ">
 <div style="float:left; text-align:center">
-<span class="number-table" style="color:#8080FF">661,064</span> (<strong>95</strong>%)
+<span class="number-table" style="color:#8080FF">662,596</span> (<strong>95</strong>%)
 <div style="font-size:13px">in Mild Condition</div><br/>
 </div>
-<div style="float:right; text-align:center"><span class="number-table" style="color:red ">35,828</span> (<strong>5</strong>%)
+<div style="float:right; text-align:center"><span class="number-table" style="color:red ">35,825</span> (<strong>5</strong>%)
 <div style="font-size:13px">Serious or Critical</div><br/>
 </div>
 </div>
@@ -452,16 +452,16 @@ Closed Cases</span></div>
 <div class="panel-body" style="text-align:center;height:200px;">
 <div class="panel_flip">
 <div class="panel_front" style="width:100%;height:100%;">
-<div class="number-table-main">243,730</div>
+<div class="number-table-main">248,452</div>
 <div style="font-size:13.5px">Cases which had an outcome:</div>
 <div style="padding-top:20px ">
 <div style="float:left; text-align:center">
-<span class="number-table" style="color:#8ACA2B">196,214</span>
+<span class="number-table" style="color:#8ACA2B">200,317</span>
 (<strong>81</strong>%)
 <div style="font-size:13px">Recovered / Discharged</div><br/>
 </div>
 <div style="float:right; text-align:center"><span class="number-table">
-47,516</span>
+48,135</span>
 (<strong>19</strong>%)
 <div style="font-size:13px">Deaths</div><br/>
 </div>
@@ -1247,15 +1247,15 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/spain/">Spain</a></td>
-<td style="font-weight: bold; text-align:right">104,118</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">9,387 </td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">22,647</td>
-<td style="text-align:right;font-weight:bold;">72,084</td>
+<td style="font-weight: bold; text-align:right">110,238</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+6,120</td>
+<td style="font-weight: bold; text-align:right;">10,003 </td>
+<td style="font-weight: bold; text-align:right;background-color:red; color:white">+616</td>
+<td style="font-weight: bold; text-align:right">26,743</td>
+<td style="text-align:right;font-weight:bold;">73,492</td>
 <td style="font-weight: bold; text-align:right">5,872</td>
-<td style="font-weight: bold; text-align:right">2,227</td>
-<td style="font-weight: bold; text-align:right">201</td>
+<td style="font-weight: bold; text-align:right">2,358</td>
+<td style="font-weight: bold; text-align:right">214</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/germany/">Germany</a></td>
@@ -1822,6 +1822,18 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">1</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;">Slovenia</td>
+<td style="font-weight: bold; text-align:right">897</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+56</td>
+<td style="font-weight: bold; text-align:right;">16 </td>
+<td style="font-weight: bold; text-align:right;background-color:red; color:white">+1</td>
+<td style="font-weight: bold; text-align:right">10</td>
+<td style="text-align:right;font-weight:bold;">871</td>
+<td style="font-weight: bold; text-align:right">29</td>
+<td style="font-weight: bold; text-align:right">431</td>
+<td style="font-weight: bold; text-align:right">8</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Estonia</td>
 <td style="font-weight: bold; text-align:right">858</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+79</td>
@@ -1844,18 +1856,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">19</td>
 <td style="font-weight: bold; text-align:right">1</td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;">Slovenia</td>
-<td style="font-weight: bold; text-align:right">841</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">15 </td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">10</td>
-<td style="text-align:right;font-weight:bold;">816</td>
-<td style="font-weight: bold; text-align:right">31</td>
-<td style="font-weight: bold; text-align:right">405</td>
-<td style="font-weight: bold; text-align:right">7</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Qatar</td>
@@ -2027,14 +2027,14 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Lebanon</td>
-<td style="font-weight: bold; text-align:right">479</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">15 </td>
-<td style="font-weight: bold; text-align:right;background-color:red; color:white">+1</td>
+<td style="font-weight: bold; text-align:right">494</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+15</td>
+<td style="font-weight: bold; text-align:right;">16 </td>
+<td style="font-weight: bold; text-align:right;background-color:red; color:white">+2</td>
 <td style="font-weight: bold; text-align:right">43</td>
-<td style="text-align:right;font-weight:bold;">421</td>
-<td style="font-weight: bold; text-align:right">5</td>
-<td style="font-weight: bold; text-align:right">70</td>
+<td style="text-align:right;font-weight:bold;">435</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">72</td>
 <td style="font-weight: bold; text-align:right">2</td>
 </tr>
 <tr style="">
@@ -2170,6 +2170,18 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">0.6</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;">Kuwait</td>
+<td style="font-weight: bold; text-align:right">342</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+25</td>
+<td style="font-weight: bold; text-align:right;"> </td>
+<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">81</td>
+<td style="text-align:right;font-weight:bold;">261</td>
+<td style="font-weight: bold; text-align:right">15</td>
+<td style="font-weight: bold; text-align:right">80</td>
+<td style="font-weight: bold; text-align:right"></td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Taiwan</td>
 <td style="font-weight: bold; text-align:right">339</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+10</td>
@@ -2192,18 +2204,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">11</td>
 <td style="font-weight: bold; text-align:right">265</td>
 <td style="font-weight: bold; text-align:right">7</td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;">Kuwait</td>
-<td style="font-weight: bold; text-align:right">317</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;"> </td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">81</td>
-<td style="text-align:right;font-weight:bold;">236</td>
-<td style="font-weight: bold; text-align:right">14</td>
-<td style="font-weight: bold; text-align:right">74</td>
-<td style="font-weight: bold; text-align:right"></td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Burkina Faso</td>
@@ -2243,15 +2243,15 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Albania</td>
-<td style="font-weight: bold; text-align:right">259</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">15 </td>
-<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">277</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+18</td>
+<td style="font-weight: bold; text-align:right;">16 </td>
+<td style="font-weight: bold; text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">67</td>
-<td style="text-align:right;font-weight:bold;">177</td>
+<td style="text-align:right;font-weight:bold;">194</td>
 <td style="font-weight: bold; text-align:right">7</td>
-<td style="font-weight: bold; text-align:right">90</td>
-<td style="font-weight: bold; text-align:right">5</td>
+<td style="font-weight: bold; text-align:right">96</td>
+<td style="font-weight: bold; text-align:right">6</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Cameroon</td>
@@ -2519,14 +2519,14 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Brunei </td>
-<td style="font-weight: bold; text-align:right">131</td>
-<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">133</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
 <td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">52</td>
-<td style="text-align:right;font-weight:bold;">78</td>
+<td style="font-weight: bold; text-align:right">56</td>
+<td style="text-align:right;font-weight:bold;">76</td>
 <td style="font-weight: bold; text-align:right">3</td>
-<td style="font-weight: bold; text-align:right">299</td>
+<td style="font-weight: bold; text-align:right">304</td>
 <td style="font-weight: bold; text-align:right">2</td>
 </tr>
 <tr style="">
@@ -2535,8 +2535,8 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+13</td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">23</td>
-<td style="text-align:right;font-weight:bold;">107</td>
+<td style="font-weight: bold; text-align:right">26</td>
+<td style="text-align:right;font-weight:bold;">104</td>
 <td style="font-weight: bold; text-align:right">6</td>
 <td style="font-weight: bold; text-align:right">33</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -2578,6 +2578,18 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">0.6</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;">Mayotte</td>
+<td style="font-weight: bold; text-align:right">116</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+15</td>
+<td style="font-weight: bold; text-align:right;">1 </td>
+<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">10</td>
+<td style="text-align:right;font-weight:bold;">105</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">425</td>
+<td style="font-weight: bold; text-align:right">4</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Kyrgyzstan</td>
 <td style="font-weight: bold; text-align:right">116</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+5</td>
@@ -2600,18 +2612,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right">7</td>
 <td style="font-weight: bold; text-align:right"></td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;">Mayotte</td>
-<td style="font-weight: bold; text-align:right">101</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">1 </td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">10</td>
-<td style="text-align:right;font-weight:bold;">90</td>
-<td style="font-weight: bold; text-align:right">3</td>
-<td style="font-weight: bold; text-align:right">370</td>
-<td style="font-weight: bold; text-align:right">4</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;">Trinidad and Tobago</td>
@@ -3685,15 +3685,15 @@ Follow @Worldometers</span></a>
 <tbody>
 <tr class="total_row">
 <td><strong>Total:</strong></td>
-<td>940,622</td>
-<td style="background-color:#FFEEAA; color:#000;">+5,425</td>
-<td>47,516</td>
-<td style="background-color:red; color:#fff">+324</td>
-<td>196,214</td>
-<td>696,892</td>
-<td>35,828</td>
-<td>120.7</td>
-<td>6.1</td>
+<td>946,873</td>
+<td style="background-color:#FFEEAA; color:#000;">+11,676</td>
+<td>48,135</td>
+<td style="background-color:red; color:#fff">+943</td>
+<td>200,317</td>
+<td>698,421</td>
+<td>35,825</td>
+<td>121.5</td>
+<td>6.2</td>
 </tr>
 </tbody>
 </table>
@@ -4045,7 +4045,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;">Ecuador</td>
 <td style="font-weight: bold; text-align:right">2,758</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+456</td>
-<td style="font-weight: bold; text-align:right;">98  </td>
+<td style="font-weight: bold; text-align:right;">98 </td>
 <td style="font-weight: bold; text-align:right;background-color:red; color:white">+19</td>
 <td style="font-weight: bold; text-align:right">58</td>
 <td style="text-align:right;font-weight:bold;">2,602</td>
@@ -5113,7 +5113,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;">Mayotte</td>
 <td style="font-weight: bold; text-align:right">101</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+7</td>
-<td style="font-weight: bold; text-align:right;">1 </td>
+<td style="font-weight: bold; text-align:right;">1  </td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">10</td>
 <td style="text-align:right;font-weight:bold;">90</td>
@@ -5485,7 +5485,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;">Bahamas</td>
 <td style="font-weight: bold; text-align:right">21</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+7</td>
-<td style="font-weight: bold; text-align:right;">1 </td>
+<td style="font-weight: bold; text-align:right;">1  </td>
 <td style="font-weight: bold; text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="text-align:right;font-weight:bold;">19</td>
@@ -6340,6 +6340,30 @@ The "New" columns for China display the previous day changes (as China reports a
 <h2 align="left" id="news" style="margin-bottom: 50px;">Latest Updates</h2>
 <div class="news_date"><h4>April 2 (GMT)</h4></div><div id="newsdate2020-04-02"><div class="news_post">
 <div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>18 new cases</strong> and <strong>1 new death</strong> in <strong>Albania</strong> <span class="source">[<a class="news_source_a" href="https://shqiptarja.com/lajm/16-viktima-me-covid19-shkon-ne-8-numri-i-femijeve-te-prekur-277-raste-ne-total?r=kh1" target="_blank">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>2 new cases</strong> in <strong>Brunei Darussalam</strong> <span class="source">[<a class="news_source_a" href="https://www.instagram.com/p/B-eRn8JliW7/?igshid=4zsh14gepi8w" target="_blank">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>56 new cases</strong> and <strong>1 new death</strong> in <strong>Slovenia</strong> <span class="source">[<a class="news_source_a" href="https://twitter.com/vladaRS/status/1245640126106984451" target="_blank">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>15 new cases</strong> in <strong>Mayotte</strong> <span class="source">[<a class="news_source_a" href="https://la1ere.francetvinfo.fr/mayotte/coronavirus-15-nouveaux-cas-confirmes-a-mayotte-116-au-total-818848.html" target="_blank">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>15 new cases</strong> and <strong>2 new deaths</strong> in <strong>Lebanon</strong> <span class="source">[<a class="news_source_a" href="https://corona.ministryinfo.gov.lb/" target="_blank">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>25 new cases</strong> in <strong>Kuwait</strong> <span class="source">[<a class="news_source_a" href="https://twitter.com/kuwait_moh/status/1245639108359118848?s=21" target="_blank">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>7 new cases</strong> in <strong>Isle of Man</strong> <span class="source">[<a class="news_source_a" href="https://covid19.gov.im/general-information/latest-updates/" target="_blank">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
@@ -6373,10 +6397,6 @@ The "New" columns for China display the previous day changes (as China reports a
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>113 new cases</strong> and <strong>13 new deaths</strong> in <strong><a href="/coronavirus/country/indonesia/" style="text-decoration: underline;">Indonesia</a></strong> <span class="source">[<a class="news_source_a" href="http://www.cnnindonesia.com/nasional/20200402142951-20-489609/update-corona-2-april-1790-kasus-170-meninggal-112-sembuh" target="_blank">source</a>]</span></li></ul>
-</div>
-</div><div class="news_post">
-<div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>1 new death</strong> in <strong>Lebanon</strong> <span class="source">[<a class="news_source_a" href="https://corona.ministryinfo.gov.lb/" target="_blank">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
@@ -10287,12 +10307,6 @@ Starting on Saturday, March 28, <strong>China is closing its borders to foreign
 <div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>91 new cases</strong> and <strong>8 new deaths</strong> in <strong><a href="/coronavirus/country/south-korea/" style="text-decoration: underline;">South Korea</a></strong> <span class="source">[<a class="news_source_a" href="http://ncov.mohw.go.kr/" target="_blank">source</a>]</span> <span class="source">[<a class="news_source_a" href="http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&amp;brdGubun=&amp;dataGubun=&amp;ncvContSeq=353763&amp;contSeq=353763&amp;board_id=&amp;gubun=ALL" target="_blank">source</a>]</span></li></ul>
-</div>
-</div><div class="news_post">
-<div class="news_body news_box">
-<ul>
-<li><strong>55 new cases (of which 54 imported)</strong>,<strong> 5 new deaths</strong>, and <strong>537 new discharges</strong> occurred in <strong>China</strong> on March 26, as reported by the National Health Commission (NHC) of China<strong> </strong>[<a href="http://www.nhc.gov.cn/xcs/yqtb/202003/c521093a01734df3b3fbc156064ba19f.shtml" style="cursor: pointer;" target="_blank">source</a>] </li>
-</ul>
 </div>
 </div>
 <div style="width:100%; text-align:center;margin: 0 auto;">
