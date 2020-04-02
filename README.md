@@ -6,7 +6,7 @@ https://www.worldometers.info/coronavirus/ からCovid-19感染者状況を取�
 .
 ├── README.md
 ├── getWorldmeterCorona.py
-└── worldmeterCoronaHtml20200402.txt
+└── worldmeterCoronaHtml2020-04-02.txt
 ```
 
 * getWorldmeterCorona.py: ソースコード
